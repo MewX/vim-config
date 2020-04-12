@@ -1,4 +1,5 @@
 *~
+.nvimlog
 /benchmarks/
 /spell/
 /.vault.vim
